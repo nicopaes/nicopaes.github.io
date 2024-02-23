@@ -89,7 +89,7 @@ content:
         quote: >
           Bem-vindo às Rotas Celestes, Comandante! 
         description: | # this will include new lines to allow paragraphs
-          RPG baseado em texto lançado em 2022 e que concorreu a melhor jogo brasileiro no BIG Festival 2022 e SBGames 2022. Fui responsável pelas escolhas de tecnologias principais, arquitetura de sistemas e gestão da equipe de programação. Na parte da implementação, atuei no sistema de controle de narrativa usando [Ink](https://www.inklestudios.com/ink/), uma linguagem de script narrativo [Ink](link), sistemas de controle de fluxo de jogo e conexão com a interface de usuário.
+          RPG baseado em texto lançado em 2022 e que concorreu a melhor jogo brasileiro no BIG Festival 2022 e SBGames 2022. Fui responsável pelas escolhas de tecnologias principais, arquitetura de sistemas e gestão da equipe de programação. Na parte da implementação, atuei no sistema de controle de narrativa usando [Ink](https://www.inklestudios.com/ink/), uma linguagem de script narrativo, sistemas de controle de fluxo de jogo e conexão com a interface de usuário.
       - layout: top-middle
         title: Mental Health and  Productivity in Software Development - A Study with the Bravo Central Platform 
         sub_title: Autor

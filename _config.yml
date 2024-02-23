@@ -53,7 +53,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Studio Bravarda [Game Studio]
+        title: Studio Bravarda
         sub_title: Co-Fundador, Programador & Diretor Criativo
         caption: Janeiro 2020 - Atualmente
         link: https://studiobravarda.com/home-pt
@@ -62,7 +62,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Fundador, Programador  e Diretor Criativo no estúdio de jogos Bravarda. Estúdio focado na criação de jogos digitais autorais para o mercado. Atualmente trabalhando em Extremely Powerful Capybaras.
       - layout: left
-        title: Campus Studio [Serviços de TI, Jogos sob demanda]
+        title: Campus Studio
         sub_title: Co-Fundador, Programador & Gerente de Projetos
         caption: Outubro 2017 - Dezembro 2020
         link: https://www.campus.studio/

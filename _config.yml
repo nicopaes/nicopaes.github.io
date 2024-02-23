@@ -29,12 +29,11 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-
 # About Section
 # about_title: About Me
-about_profile_image: images/Site_Retrato_Nicolas.png
-about_content: | # this will include new lines to allow paragraphs
-  -
+# about_profile_image: images/Site_Retrato_Nicolas.png
+# about_content: | # this will include new lines to allow paragraphs
+#   -
 
 content:
   - title: Experiências # Title for the section

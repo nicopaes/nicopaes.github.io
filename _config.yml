@@ -1,0 +1,165 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Nicolas Paes Leme
+title: Desenvolvedor de Jogos Independente
+email: nicolaspleme@gmail.com
+website: www.github.com/nicopaes
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: nicothedev
+github_username:  nicopaes
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+linkedin_username: nicolaspleme
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: studiobravarda
+  icon: fas fa-globe
+  url: https://studiobravarda.com/home-pt
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/Site_Retrato_Nicolas.png
+about_content: | # this will include new lines to allow paragraphs
+  -
+
+content:
+  - title: Experiências # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Studio Bravarda [Game Studio]
+        sub_title: Co-Fundador, Programador & Diretor Criativo
+        caption: Janeiro 2020 - Atualmente
+        link: https://studiobravarda.com/home-pt
+        quote: >
+          Na caverna que você tem medo de entrar está o tesouro que você procur. Joseph Campbell
+        description: | # this will include new lines to allow paragraphs
+          Fundador, Programador  e Diretor Criativo no estúdio de jogos Bravarda. Estúdio focado na criação de jogos digitais autorais para o mercado. Atualmente trabalhando em Extremely Powerful Capybaras.
+      - layout: left
+        title: Campus Studio [Serviços de TI, Jogos sob demanda]
+        sub_title: Co-Fundador, Programador & Gerente de Projetos
+        caption: Outubro 2017 - Dezembro 2020
+        link: https://www.campus.studio/
+        description: | # this will include new lines to allow paragraphs
+          Fundador, Programador  e Gerente de projetos na startup Campus Studio. Empresa focada no desenvolvimento de jogos para clientes corporativos, como a Fundação Roberto Marinho. Responsável pelo gerenciamento de projetos de jogos e programação de sistemas interativos.
+      - layout: left
+        title: Estagiário na Área de Interatividade Digital
+        caption: Junho 2018 - Novembro 2018
+        link: https://www.tecgraf.puc-rio.br/
+        description: | # this will include new lines to allow paragraphs
+          Estagiário com foco na elaboração e implementação da experiência interativa em Realidade Virtual para o [Estande do Instituto Tecgraf/PUC-Rio na Rio Oil & Gas 2018.](https://www.facebook.com/institutotecgraf/videos/302747737123058) e também foco na manutenção de 
+
+  - title: Formação Acadêmica # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: PUC-Rio, 
+        caption: Formatura 2022   
+        sub_title: Bacharel em Ciência da Computação 
+
+  - title: Projetos # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Extremely Powerful Capybaras 
+        sub_title: Diretor Criativo & Programador
+        link: https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/
+        caption: Jogo Digital [Unity]
+        description: | # this will include new lines to allow paragraphs
+          Jogo digital do gênero Bullet Heaven, com multiplayer online para até 4 jogadores. Nesse projeto atuei como diretor criativo, tomando decisões de conteúdo, temáticas, jogabilidade, e também como programador focado em gameplay, sistemas backend e a sincronização online.
+      - layout: top-middle
+        title: Sky Caravan
+        sub_title: Diretor Técnico & Programador
+        link: https://store.steampowered.com/app/1792270/Sky_Caravan/
+        caption: Jogo Digital [Unity]
+        quote: >
+          Bem-vindo às Rotas Celestes, Comandante! 
+        description: | # this will include new lines to allow paragraphs
+          RPG baseado em texto lançado em 2022 e que concorreu a melhor jogo brasileiro no BIG Festival 2022 e SBGames 2022. Fui responsável pelas escolhas de tecnologias principais, arquitetura de sistemas e gestão da equipe de programação. Na parte da implementação, atuei no sistema de controle de narrativa usando [Ink](https://www.inklestudios.com/ink/), uma linguagem de script narrativo [Ink](link), sistemas de controle de fluxo de jogo e conexão com a interface de usuário.
+      - layout: top-middle
+        title: Mental Health and  Productivity in Software Development - A Study with the Bravo Central Platform 
+        sub_title: Autor
+        link: https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=resultado&nrSeq=63970@1
+        caption: Estudo Acadêmico
+        description: | # this will include new lines to allow paragraphs
+          Texto acadêmico aprovado para o SBSI  2024. Um estudo focado na comparação, análise e reflexões sobre saúde mental e produtividade em um ambiente de trabalho remoto no ramo de desenvolvimento de jogos. Para amparar o estudo, foi necessário a criação de uma aplicação front-end em C# usando Blazor, um servidor usando Javascript/NodeJs e uma conexão com um banco de dados MongoDB.
+      - layout: top-middle
+        title: Prisma Game Lab
+        sub_title: Fundador, Programador e& Diretor de Projetos(2017)
+        link: https://prismagamelab.carrd.co/
+        caption: Equipe de Pesquisa Universitária
+        description: | # this will include new lines to allow paragraphs
+          Responsável por gerir as equipes de jogos digitais e a equipe de jogos analógicos da Rio PUC Games, equipe de pesquisa universitária em ensino interdisciplinar focada na criação de jogos.
+  - title: Habilidades # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Programação de Jogos em Unity
+        description: | # this will include new lines to allow paragraphs
+          Possuo mais de 7 anos de experiência usando o Unity. No total, 2 jogos publicados na Steam, 3 jogos mobiles lançados em Android, com participação em mais de 8 Game Jams e diversos pequenos jogos universitário. 
+          Tenho proficiência na implementação de sistemas de gameplay, fluxo de jogo, UI, animação, camera, carregamento de assets, networking, vasta experiência na depuração de código usando debuggers e visualizações de dados usando ferramentas como (ImGUI)[https://github.com/ocornut/imgui], com foco em otimização de código.
+      - layout: left
+        title: Programação de Sistemas - C#
+        description: | # this will include new lines to allow paragraphs
+          Experiência em C# fora do ambiente Unity, utilizando .NET Core/Framework para criação de aplicações nativas, criação de FrontEnd com Blazor e SDL2 e conexões com bancos de dados.
+      - layout: left
+        title: Liderança Organizacional
+        description: | # this will include new lines to allow paragraphs
+          Desde a inicio da minha carreira, por ter facilidade de comunicação, fui apontado como gestor de diversos grupos. Me especializei na gestão de projeto e de pessoas. Experiência na utilização e adaptação de metodologias ágeis, bem como a utilização de metodologia em cascata. 
+          Tenho aptidão para mentorias, palestras e coordenação de pessoas e eventos.
+      - layout: left
+        title: Programação de Servidores - 
+        sub_title: Node.js/js
+        description: | # this will include new lines to allow paragraphs
+          Experiência em implementação e realização de manutenção em servidores escritos em Javascript. Hoje gerencio servidores que armazenam e controlam o envio de Feedbacks de dezenas jogadores por dia. 
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

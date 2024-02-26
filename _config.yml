@@ -30,10 +30,11 @@ additional_links:
 #   url: Link url (eg. https://google.com)
 
 # About Section
-# about_title: About Me
-# about_profile_image: images/Site_Retrato_Nicolas.png
-# about_content: | # this will include new lines to allow paragraphs
-#   -
+about_title: Sobre Mim
+about_profile_image: images/Site_Retrato_Nicolas.png
+about_content: | # this will include new lines to allow paragraphs
+  Sempre sonhei em trabalhar com jogos, desde um certo plot twist em um jogo no fundo do mar. Hoje sigo sonhando dando o máximo que posso para essa mídia que gosto tanto. 
+  Como programador, gerente ou mentor, tento sempre aprimorar as minhas habilidades e ajudar a comunidade brasileira de desenvolvedores de jogos.
 
 content:
   - title: Experiências # Title for the section
